@@ -4,3 +4,8 @@ case it didn't work with the value of 220 ohms that the MIDI Spec. gives. You
 also need to drive the input to the UARTrx pin with 5V instead of 3V. 
 With the 6N138 you can probably respect the values the MIDI Spec. gives.
 This is just for my own purposes, in production I should use the 6N138.
+
+UPDATE: SEPT 24th, 2014
+
+The 4N35 seems to work sporatically, I've switched to the *4N36* with better
+results. Best to eventually get the proper part.
